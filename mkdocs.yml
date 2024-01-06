@@ -25,7 +25,7 @@ theme:
         name: switch to light mode
       primary: purple
       accent: brown
-  logo: logo.png
+  logo: assets/logo.png
 
 extra:
   generator: false
