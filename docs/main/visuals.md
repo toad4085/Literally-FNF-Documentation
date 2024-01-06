@@ -8,3 +8,6 @@ As the name suggests, nearly all of the assets within this folder are related to
 
 ## [Entities](entities)
 The [Entities](entities) folder stores entities such as characters and speakers. Within it are two subfolders called Chars and Speakers
+
+## [Backgrounds](backgrounds)
+The [Backgrounds](backgrounds) folder stores all background folders.

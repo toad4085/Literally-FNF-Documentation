@@ -41,3 +41,9 @@ nav:
       - main/visuals.md
       - Entities:
         - main/visuals/entities.md
+      - Backgrounds:
+        - main/visuals/backgrounds.md
+        - Spawns:
+          - main/visuals/backgrounds/spawns.md
+        - Background Sprites:
+          - main/visuals/backgrounds/background_sprites.md
