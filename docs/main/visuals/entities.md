@@ -1,4 +1,4 @@
-**Main** / [**Visuals**](\main\visuals "shitballs") / **Entities**
+**Main** / [**Visuals**](.. "shitballs") / **Entities**
 
 # Entities
 Entities are the character models for Opponents, Players and Speakers.
