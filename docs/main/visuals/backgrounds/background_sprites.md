@@ -1,3 +1,5 @@
+**Main** / [**Visuals**](../.. "shitballs") / [**Backgrounds**](.. "realballs") / **Background Sprites**
+
 # Background Sprites
 
 Static or Animated objects located in a background.
