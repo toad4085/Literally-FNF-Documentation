@@ -1,8 +1,8 @@
+**Main** / **Visuals**
+
 # Visuals
 
-Here you will see all of how to go about through the visual aspect of LFNF and what not.
+The Visuals folder (`game.ServerStorage.Game.Visuals`) stores all the FNF mod assets that has to be streamed to the client.
 
-## Entities
-Yes these are one of the visual things, you can see.. like a character which is singing. they are entity ok??
-
-Explanation and more details about entities can be read [here](entities).
+## [Entities](entities)
+The [Entities](entities) folder stores entities such as characters and speakers. Within it are two subfolders called Chars and Speakers

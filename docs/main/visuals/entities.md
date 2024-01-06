@@ -1,3 +1,5 @@
+**Main** / [**Visuals**](\main\visuals) / **Entities**
+
 # Entities
 
 These are the character models for Opponent, Player and even the Speakers.
