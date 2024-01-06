@@ -1,18 +1,19 @@
-**Main** / [**Visuals**](\main\visuals) / **Entities**
+**Main** / [**Visuals**](\main\visuals "shitballs") / **Entities**
 
 # Entities
-
-These are the character models for Opponent, Player and even the Speakers.
+Entities are the character models for Opponents, Players and Speakers.
 
 There are two types of Entities:
 
-* **Char** (eg. Boyman and Dad)
-* **Speaker** (eg. Gal-Pal)
+* **Chars** <sup>(eg. Boyman and Dad)</sup>
+* **Speakers** <sup>(eg. Gal-Pal)</sup>
 
-They have various aspects to be explored within ok???
+---
 
 ## Attributes
-You wont believe it, they have attributes with sooo much meaning.
-They are stored within the entity frame.
 
-The various different Attributes for an entity can be seen [here](attributes).
+* **HealthIcon**<sup>`ImageID`</sup><br>
+The ImageID that the entity is using for its HealthIcon.
+
+* **IconRectPos**<sup>`Vector2` `(optional)`</sup><br>
+The coordinates of the entity's HealthIcon in the HealthIcon Spritesheet
