@@ -3,8 +3,8 @@ theme:
   name: material
   features:
     - navigation.tabs
-    - navigation.sections
-    - toc.,integrate
+    - navigation.indexes
+    - navigation.path
     - navigation.top
     - search.suggest
     - search.highlight
@@ -17,11 +17,28 @@ theme:
       toggle:
         icon: material/toggle-switch-off-outline
         name: Switch to dark mode
-      primary: brown
-      accent: magenta
+      primary: yellow
+      accent: white
     - scheme: slate
       toggle:
         icon: material/toggle-switch
         name: switch to light mode
-      primary: yellow
-      accent: white
+      primary: purple
+      accent: brown
+  logo: assets/logo.png
+
+extra:
+  generator: false
+
+plugins:
+  - search
+  - section-index
+
+nav:
+  - Home: index.md
+  - Main:
+    - Visuals:
+      - main/visuals.md
+      - Entities:
+        - main/visuals/entities.md
+        - Attributes: main/visuals/entities/attributes.md
