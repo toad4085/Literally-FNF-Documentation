@@ -1,3 +1,3 @@
 # Literally-FNF-Documentation
 
-<iframe src="../../../assets/chaos.mp4" allowfullscreen></iframe>
+![way too cool](../../assets/chaos.gif)
