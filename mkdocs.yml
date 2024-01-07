@@ -41,7 +41,9 @@ nav:
     - Songs:
       - main/songs.md
       - Song Attributes:
-         - main/songs/song_attributes.md
+        - main/songs/song_attributes.md
+      - Fats_:
+        - main/songs/fats.md
     - Visuals:
       - main/visuals.md
       - Entities:
