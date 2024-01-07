@@ -2,16 +2,24 @@
 
 # Songs
 
-The Visuals folder (`game.ServerStorage.Game.Visuals`) stores all the FNF mod assets that has to be streamed to the client.
+The Songs folder (`game.ServerStorage.Game.Stores`) stores all the FNF mod song configuration instances.
 
-As the name suggests, nearly all of the assets within this folder are related to the game's visuals. One exception of this however, is the [Soundpacks](https://file.garden/ZAE-7lkUN2HXG_xm/chinese%20propaganda%20poster%20with%20chairman%20mao%20and%20the%20defiant%20chinese.mp4) subfolder.
+Songs themselves are stored in seperate folders, named after the mod they come from.
 
-## [Entities](entities)
-The [Entities](entities) folder stores entities such as characters and speakers. Within it are two subfolders called Chars and Speakers
+Song Folder's themselves don't have any attributes, however, song configuration instances do.
 
-## [Backgrounds](backgrounds)
-The [Backgrounds](backgrounds) folder stores backgrounds used in-game.
+---
 
-# sonic
+## Structure
 
-<iframe src="../../assets/chaos.mp4" allowfullscreen></iframe>
+* **Song Instance** <sup>[`StringValue`](https://create.roblox.com/docs/reference/engine/classes/StringValue)</sup>
+
+    * **Name** <sup>(This is the Song's name.)</sup>
+
+    * **Value** <sup>`string` (This is the Song's [chart](https://file.garden/ZAE-7lkUN2HXG_xm/chinese%20propaganda%20poster%20with%20chairman%20mao%20and%20the%20defiant%20chinese.mp4).)</sup>
+
+    * [**Fats_**](./fats.md) <sup>(This Folder allows charts to be bigger than the [StringValue.Value](https://create.roblox.com/docs/reference/engine/classes/StringValue/#Value) limit.)</sup>
+
+    * [**MIDIs**](./midis.md) <sup>(This folder contains values that are used by the MIDI system.)</sup>
+
+    * [**Song Attributes**](./song_attributes.md) <sup>(Song configuration values.)</sup>

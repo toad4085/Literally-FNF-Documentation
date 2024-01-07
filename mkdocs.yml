@@ -40,6 +40,8 @@ nav:
   - Main:
     - Songs:
       - main/songs.md
+      - Song Attributes:
+         - main/songs/song_attributes.md
     - Visuals:
       - main/visuals.md
       - Entities:
