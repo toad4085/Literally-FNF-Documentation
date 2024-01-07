@@ -2,4 +2,4 @@
 
 # rizz me up
 
-![rizzler](\assets\images\Chad.webp)
+![rizzler](../../assets/images/Chad.webp)
