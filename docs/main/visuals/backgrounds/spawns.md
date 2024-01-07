@@ -16,11 +16,14 @@ There are three Spawn Types:
 
 ## Attributes
 
-* **CamXOffset** <sup>`Number`</sup><br>
+* **CamXOffset** <sup>`Number`</sup><br><div style="padding-left: 15px;">
 Adjusts the Horizontal offset of the camera for that [entity](../../entities).
+</div>
 
-* **CamYOffset** <sup>`Number`</sup><br>
+* **CamYOffset** <sup>`Number`</sup><br><div style="padding-left: 15px;">
 Adjusts the Vertical offset of the camera for that [entity](../../entities).
+</div>
 
-* **Scale** <sup>`Number`</sup><br>
+* **Scale** <sup>`Number`</sup><br><div style="padding-left: 15px;">
 Multiplies the size of the [Entity](../../entities) based on the inputted number.
+</div>

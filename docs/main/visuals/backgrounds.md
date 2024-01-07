@@ -11,11 +11,6 @@ Every background is composed of multiple assets:
 
 ---
 
-## Attributes
-
-* **BGSize**<sup>`Vector2`</sup><br>
-Adjusts the background's size.
-
 ## Formatting
 
 All Background folders follow a specific way of formatting.
@@ -28,3 +23,9 @@ For Example, a mod with the name "Arcade Showdown" has the tag "AS". The name of
 If we were to make a Background folder using that information, it would be formatted as follows:  
 
 `AS_Sanctuary`
+
+## Attributes
+
+* **BGSize**<sup>`Vector2`</sup><br><div style="padding-left: 15px;">
+Adjusts the background's size.
+</div>
