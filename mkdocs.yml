@@ -26,7 +26,7 @@ theme:
       primary: purple
       accent: brown
   logo: assets/logo.png
-  favicon: assets/logo.png
+  favicon: assets/logo.png  
 
 extra:
   generator: false
