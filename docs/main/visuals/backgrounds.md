@@ -14,7 +14,7 @@ Every background is composed of multiple assets:
 ## Attributes
 
 * **BGSize**<sup>`Vector2`</sup><br>
-Adjusts the background's scaling.
+Adjusts the background's size.
 
 ## Formatting
 
