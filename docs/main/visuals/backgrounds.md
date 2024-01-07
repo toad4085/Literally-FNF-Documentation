@@ -20,7 +20,7 @@ Adjusts the background's size.
 
 All Background folders follow a specific way of formatting.
 
-A background's folder name includes a shortened version of a Mod's name and the background's name seperated with an underscore:  
+A background's folder name includes a shortened version of a mod's name and the background's name seperated with an underscore:  
 
 ``ModTag_BackgroundName``
 

@@ -38,6 +38,8 @@ plugins:
 nav:
   - Home: index.md
   - Main:
+    - Songs:
+      - main/songs.md
     - Visuals:
       - main/visuals.md
       - Entities:
