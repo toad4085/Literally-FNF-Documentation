@@ -13,7 +13,7 @@ There are two types of Entities:
 ## Attributes
 
 * **FacingLeft**<sup>`Boolean`</sup><br>
-Determines whether the character is facing the left. This is necessary so that the character faces the correct direction ingame.
+A descriptor used to identify whether the character is facing left or not. For example, it is set to true for Boyman, and set to false for Dad.
 
 * **HealthIcon**<sup>`ImageID`</sup><br>
 The ImageID that the entity is using for its health icon.
