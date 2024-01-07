@@ -1,3 +1,3 @@
 # Literally-FNF-Documentation
 
-![way too cool](../../assets/chaos.gif)
+![way too cool](docs/assets/chaos.gif)
