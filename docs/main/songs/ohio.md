@@ -7,6 +7,6 @@
 
 ^^^^^^^ has no riss
 
-<iframe src="../../../assets/chaos.mp4" allowfullscreen></iframe>
+![way past cool](../../assets/chaos.gif)
 
 ^^^^^^^^ way past cool
