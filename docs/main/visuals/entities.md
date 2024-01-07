@@ -12,8 +12,11 @@ There are two types of Entities:
 
 ## Attributes
 
+* **FacingLeft**<sup>`Boolean`</sup><br>
+Determines whether the character is facing the left. This is necessary so that the character faces the correct direction ingame.
+
 * **HealthIcon**<sup>`ImageID`</sup><br>
-The ImageID that the entity is using for its HealthIcon.
+The ImageID that the entity is using for its health icon.
 
 * **IconRectPos**<sup>`Vector2` `(optional)`</sup><br>
-The coordinates of the entity's HealthIcon in the HealthIcon Spritesheet
+The coordinates of the entity's health icon in the health icon spritesheet. The spritesheet uses the Image set in the `HealthIcon` attribute.
