@@ -2,4 +2,10 @@
 
 # rizz me up
 
-![rizzler](../../assets/images/Chad.webp)
+![not rizz](../../assets/images/Chad.webp)
+
+^^^^^^^ has no riss
+
+<iframe src="../../../assets/chaos.mp4" allowfullscreen></iframe>
+
+^^^^^^^^ way past cool
