@@ -23,4 +23,4 @@ Adjusts the Horizontal offset of the camera for that [entity](../../entities).
 Adjusts the Vertical offset of the camera for that [entity](../../entities).
 
 * **Scale** <sup>`Number`</sup><br>
-Placeholder text.
+Multiplies the size of the [Entity](../../entities) based on the inputted number.
