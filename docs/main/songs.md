@@ -10,7 +10,7 @@ Song Folder's themselves don't have any attributes, however, song configuration 
 
 ---
 
-## Structure
+## Song Folder Structure
 
 * **Song Instance** <sup>[`StringValue`](https://create.roblox.com/docs/reference/engine/classes/StringValue)</sup>
 
@@ -18,8 +18,8 @@ Song Folder's themselves don't have any attributes, however, song configuration 
 
     * **Value** <sup>`string` (This is the Song's [chart](https://file.garden/ZAE-7lkUN2HXG_xm/chinese%20propaganda%20poster%20with%20chairman%20mao%20and%20the%20defiant%20chinese.mp4).)</sup>
 
-    * [**Fats_**](./fats.md) <sup>(This Folder allows charts to be bigger than the [StringValue.Value](https://create.roblox.com/docs/reference/engine/classes/StringValue/#Value) limit.)</sup>
+    * [**Fats_**](./fats) <sup>(This Folder allows charts to be bigger than the [StringValue.Value](https://create.roblox.com/docs/reference/engine/classes/StringValue/#Value) limit.)</sup>
 
-    * [**MIDIs**](./midis.md) <sup>(This folder contains values that are used by the MIDI system.)</sup>
+    * [**MIDIs**](./midis) <sup>(This folder contains values that are used by the MIDI system.)</sup>
 
-    * [**Song Attributes**](./song_attributes.md) <sup>(Song configuration values.)</sup>
+    * [**Song Attributes**](./song_attributes) <sup>(Song configuration values.)</sup>

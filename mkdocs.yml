@@ -44,6 +44,8 @@ nav:
         - main/songs/song_attributes.md
       - Fats_:
         - main/songs/fats.md
+      - Playlist Module:
+        - main/songs/playlist.md
     - Visuals:
       - main/visuals.md
       - Entities:
