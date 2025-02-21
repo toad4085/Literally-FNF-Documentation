@@ -26,7 +26,15 @@ Song Attributes are a part of the Song Instance, they contain important data nec
     Background assigned to the song, strict name of the background folder from the backgrounds folder.
 </div>
 
-###
+* ExtraPlayers<sup>`StringValue`</sup> <br><div style="padding-left: 15px;">
+    Example: `[[Man,1]]`
+</div>
+
+* ExtraOpponents<sup>`StringValue`</sup> <br><div style="padding-left: 15px;">
+    Example: `[[Dad,1]]`
+</div>
+
+### Sound
 
 * Inst<sup>`SoundID`</sup><br><div style="padding-left: 15px;">
 The Intrumental for the Song.
@@ -35,6 +43,13 @@ The Intrumental for the Song.
 * Inst Volume<sup>`Float`</sup><br><div style="padding-left: 15px;">
 The Instrumental's Volume.
 </div>
+
+* BypassSpeedAdj<sup>`Float`</sup><br><div style="padding-left: 15px;">
+The Value used to multiply the speed of all audio related to the song. <br>
+Used when a song had to be slowed down to avoid roblox moderation.
+</div>
+
+<br>
 
 * Voices<sup>`SoundID`</sup><br><div style="padding-left: 15px;">
 The Audio for the Player Character.<br>
@@ -53,6 +68,28 @@ The Audio for the Opponent Character.
 The Volume of the VoicesP2 Track.
 </div>
 
+### UI Visuals
+
+* NoteStyle<sup>`StringValue`</sup></sup> <sup> `Default: "Default"` </sup> <br><div style="padding-left: 15px;">
+Determines which note style the song should use.
+</div>
+
+* NoteScheme<sup>`StringValue`</sup></sup> <sup> `Default: "Default"` </sup> <br><div style="padding-left: 15px;">
+Determines which note color scheme the song should use.
+</div>
+
+* AspectRatio<sup>`Float`</sup><br><div style="padding-left: 15px;">
+Determines the aspect ratio of the game frame.
+</div>
+
+* HitZonePos<sup>`Vector2`</sup><br><div style="padding-left: 15px;">
+Determines the center position of the HitZones.
+</div>
+
+* HitZoneSize<sup>`Float`</sup><br><div style="padding-left: 15px;">
+Determines the size of the HitZones.
+</div>
+
 ### Misc
 
 * ModChart<sup>`StringValue`</sup></sup> <br><div style="padding-left: 15px;">
@@ -63,8 +100,12 @@ The Volume of the VoicesP2 Track.
     Unknown
 </div>
 
-* NoteStyle<sup>`StringValue`</sup></sup> <sup> `Default: "Default"` </sup> <br><div style="padding-left: 15px;">
-Determines which note style the song should use.
+* DeathZoom<sup>`Float`</sup></sup> <br><div style="padding-left: 15px;">
+    Unknown
+</div>
+
+* DeathTag<sup>`Float`</sup></sup> <br><div style="padding-left: 15px;">
+    Unknown
 </div>
 
 
